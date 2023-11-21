@@ -1,0 +1,14 @@
+.jumbotron {
+    background-color: rgb(72, 175, 206) !important;
+    color: black;
+    padding: 20px;
+  }
+  
+  .jumbotron h1 {
+    font-size: 2.5em;
+  }
+  
+  .jumbotron p {
+    font-size: 1.2em;
+  }
+  
